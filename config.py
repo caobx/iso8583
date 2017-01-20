@@ -72,7 +72,7 @@ root = {
     123: { 'name': '应答自定义数据', 'class': 'LLLV', 'type': 'ANS', 'len': 999, 'code': 'ASCII'},
     124: { 'name': '证书信息', 'class': 'LLLLV', 'type': 'ANS', 'len': 4095, 'code': 'ASCII'},
     127: { 'name': '终端状态定义内容', 'class': 'LLLV', 'type': 'ANS', 'len': 126, 'code': 'ASCII'},
-    128: { 'name': '密钥信息', 'class': 'LLLV', 'type': 'B', 'len': 16, 'code': 'BYTES'},
+    128: { 'name': '密钥信息', 'class': 'V', 'type': 'B', 'len': 16, 'code': 'BYTES'},
 
 }
 
